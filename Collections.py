@@ -1,9 +1,13 @@
 # Collections
-
+import time
+# Collections - built in types that allow us to store large data in a particular format
+# 2 formats of collections - lists and dictionaries
+# Lists - index based, each object can be found by its index
+# Dictionary - based on key value pairs: key, vakue, can store any data
 # Lists
 
 # array = list
-#Collections
+# Collections
 # List
 # A single data types ideal
 example_list = (1, True, "string")
@@ -80,7 +84,7 @@ student_1 = {
     "completed_lesson_names": ["variables", "data_types", "setup"]
 }
 
-# Acess the dictionary
+# Access the dictionary
 
 print(student_1["stream"])
 
